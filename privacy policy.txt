@@ -1,0 +1,51 @@
+Privacy Policy for “Roblox Menu Restoration”
+
+Effective Date: 09/04/2026
+
+1.  “Roblox Menu Restoration” is a browser extension designed
+    to modify the appearance and functionality of the Roblox website to
+    restore previous menu features and improve user experience.
+
+2.  Data Collection: This extension does not collect, store, or transmit
+    any personal data.
+
+-   No personal information is gathered
+-   No browsing history is stored externally
+-   No data is sent to any servers
+
+All changes made by the extension happen locally within your browser.
+
+3.  Permissions Usage: The extension may request access to certain
+    websites in order to:
+
+-   Modify page layout and interface elements
+-   Restore or enhance menu functionality
+
+These permissions are used solely for the extension’s core features and
+nothing else.
+
+4.  Third-Party Services: This extension does not use third-party
+    analytics, tracking tools, or external services.
+
+5.  Data Security: Since no user data is collected or transmitted, there
+    is no risk of your personal data being exposed through this
+    extension.
+
+6.  Usage & Restrictions: This extension is provided for personal use
+    only.
+
+-   Unauthorized redistribution, resale, or re-uploading of this
+    extension is not permitted
+-   Modifying, copying, or incorporating parts of this extension into
+    other projects without explicit permission is not allowed
+-   Any form of theft, misuse, or misrepresentation of this extension
+    will not be tolerated
+
+If you wish to use any part of this extension in your own project, you
+must obtain prior permission from the developer.
+
+7.  Changes to This Policy: This policy may be updated from time to time.
+    Any changes will be reflected in this document.
+
+8.  Contact If you have any questions, you can contact: 
+    haru_the_cat on discord or gaming33211@outlook.com.
